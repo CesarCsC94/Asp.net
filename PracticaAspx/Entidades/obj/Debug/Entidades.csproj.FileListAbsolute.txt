@@ -1,0 +1,5 @@
+C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\bin\Debug\Entidades.dll
+C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.dll
+C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.pdb

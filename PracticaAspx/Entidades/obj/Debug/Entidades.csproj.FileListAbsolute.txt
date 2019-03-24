@@ -3,3 +3,8 @@ C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\bin\Debug\Enti
 C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.dll
 C:\Users\Cesar\Documents\Proyectos\ASP.NET\PracticaAspx\Entidades\obj\Debug\Entidades.pdb
+C:\ProyectosGIT\Asp.net\PracticaAspx\Entidades\bin\Debug\Entidades.dll
+C:\ProyectosGIT\Asp.net\PracticaAspx\Entidades\bin\Debug\Entidades.pdb
+C:\ProyectosGIT\Asp.net\PracticaAspx\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\ProyectosGIT\Asp.net\PracticaAspx\Entidades\obj\Debug\Entidades.dll
+C:\ProyectosGIT\Asp.net\PracticaAspx\Entidades\obj\Debug\Entidades.pdb

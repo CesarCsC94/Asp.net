@@ -11,7 +11,10 @@ namespace PracticaAspx.Paginas
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            this.cargarCiudades();
+            if (!IsPostBack)
+            {
+                this.cargarCiudades();
+            }
         }//Page_Load
 
        protected void cargarCiudades()
